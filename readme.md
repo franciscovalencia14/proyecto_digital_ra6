@@ -19,5 +19,33 @@
 - Logística: automatizar la gestión de pedidos y envíos  
 - Atención al cliente: implementar sistemas digitales de soporte  
 
+## 4) Tecnologías
+- Inteligencia Artificial: chatbots para atención al cliente  
+- Big Data: análisis del comportamiento de los clientes  
+- Cloud Computing: almacenamiento y servicios online  
+- IoT: control de inventario en almacén  
+- eCommerce: plataforma de venta online  
+
+
+## 5) Datos
+- Datos generados: clientes, pedidos, productos, pagos  
+- Captura: formularios web y compras online  
+- Almacenamiento: bases de datos en la nube  
+- Procesamiento: sistemas ERP y CRM  
+- Análisis: herramientas de analítica web  
+- Uso: toma de decisiones comerciales y operativas  
+
+
+## 6) Seguridad
+- Riesgos:  
+  - Robo de datos  
+  - Ciberataques  
+  - Pérdida de información  
+
+- Medidas:  
+  - Cifrado de datos (SSL)  
+  - Copias de seguridad  
+  - Antivirus y firewall  
+
 
 
