@@ -148,4 +148,12 @@
 - **Relaciones:**  
   - Cliente realiza Pedido  
   - Pedido contiene Productos  
-  - Producto pertenece a Inventario  
+  - Producto pertenece a Inventario
+ 
+    ## 🧾 11. Conclusión
+
+La transformación digital de EcoMarket Sevilla representa una oportunidad clave para evolucionar de un modelo de negocio tradicional a uno híbrido, más competitivo y orientado al cliente. La incorporación de tecnologías como el comercio electrónico, sistemas ERP y CRM, junto con el uso estratégico de los datos, permitirá optimizar procesos internos, mejorar la toma de decisiones y aumentar la rentabilidad.
+
+Además, la digitalización no solo impacta en el crecimiento económico, sino también en la experiencia del cliente, ofreciendo servicios más personalizados, rápidos y accesibles. No obstante, este proceso requiere inversión, formación del personal y una adecuada gestión del cambio para minimizar resistencias y riesgos.
+
+En conclusión, la digitalización no es solo una opción, sino una necesidad para garantizar la sostenibilidad y competitividad de la empresa en un entorno cada vez más digitalizado.
